@@ -5,6 +5,6 @@
 3. Устанавливается кастомный автор эмоции либо вообще удаляется.
 
 Как использовать:
-1. Запустить программу в папке .minecraft/emotes.
+1. Запустить [программу](https://github.com/deHasher/EmotesCleaner/raw/refs/heads/master/EmotesCleaner.exe) в папке .minecraft/emotes.
 2. Радоваться.
 3. (вероятно сбросятся эмоции которые были забинжены)
